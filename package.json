@@ -1,0 +1,24 @@
+{
+  "name": "applicationui",
+  "version": "1.0.0",
+  "description": "The website/ui of the CampusGeo application",
+  "main": "index.js",
+  "scripts": {
+    "compile-html": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campus-geo/application-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/campus-geo/application-ui/issues"
+  },
+  "homepage": "https://github.com/campus-geo/application-ui#readme",
+  "type": "module",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
